@@ -1,4 +1,4 @@
-package com.jailton.androidapptemplate
+package com.gustavo.jailtonProjeto
 
 import org.junit.Test
 
